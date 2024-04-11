@@ -36,7 +36,7 @@
   </description>
 
   <properties>
-    <jgitVersion>5.13.1.202206130422-r</jgitVersion><!-- version 6+ requires Java 11 -->
+    <jgitVersion>5.13.3.202401111512-r</jgitVersion><!-- version 6+ requires Java 11 -->
   </properties>
   <dependencies>
     <dependency>
